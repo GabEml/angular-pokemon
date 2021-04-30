@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c220136f-15aa-43ea-947d-d4885ba7aec4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JSFile/pokemon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTestFile/pokemon.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/combat.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pokemon.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSFile/combat.js" beforeDir="false" afterPath="$PROJECT_DIR$/JSFile/combat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/combat.ts" beforeDir="false" afterPath="$PROJECT_DIR$/combat.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokemon.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +58,7 @@
       <updated>1617699870936</updated>
       <workItem from="1617699872075" duration="8818000" />
       <workItem from="1618328286528" duration="69000" />
-      <workItem from="1619776250856" duration="17381000" />
+      <workItem from="1619776250856" duration="19411000" />
     </task>
     <servers />
   </component>
